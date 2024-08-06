@@ -32,7 +32,7 @@ echo '<tr>
 <td>'.$row['no'].' </td>
 <td>'.$row['nama_siswa'].'</td>
 <td>'.$row['kelas'].'</td>
-<td><img src="image.png" style="width:20px"></td>
+<td><img src="image/image.png" style="width:20px"></td>
 
 </tr> ';
 }
